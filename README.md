@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png"  />
+<div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png"  />
+</div>
 
 ###
 
@@ -14,10 +16,6 @@
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/1.jpeg"  />
-
-###
-
 <img align="left" height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/2.gif"  />
 
 ###
@@ -26,13 +24,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/4.gif"  />
-</div>
+<img align="left" height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/4.gif"  />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/5.gif"  />
