@@ -1,0 +1,7 @@
+path: F:\Workspace\Python\IA\dataset
+train: train\images
+val: val\images
+test:
+
+names:
+  0: lentes

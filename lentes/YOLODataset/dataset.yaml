@@ -1,0 +1,7 @@
+path: \\?\F:\Workspace\Python\IA\lentes\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: lentes
