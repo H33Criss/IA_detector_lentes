@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Este proyecto utiliza la camara para detectar el objeto "lente" 🕶️ en tiempo real.</p>
+<p align="left">Este proyecto utiliza la camara para detectar el objeto "lente" 🕶️ en tiempo real.<br><br>Se usa la tecnología de seguimiento de objetos Ultralytics Yolo V11</p>
 
 ###
 
