@@ -32,9 +32,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/5.gif"  />
-</div>
+<img align="left" height="200" src="https://raw.githubusercontent.com/H33Criss/IA_detector_lentes/refs/heads/main/demostraciones/5.gif"  />
 
 ###
 
