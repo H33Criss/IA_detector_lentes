@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<h2 align="left">Desarrollo con</h2>
+<h2 align="left">Desarrollo con estas tecnologías</h2>
 
 ###
 
@@ -41,5 +41,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h2 align="left">Entrenamiento</h2>
+
+###
+
+<p>Detección por sobre la segmentación</p>
+
+`yolo task=detect mode=train epochs=200 data=dataset/dataset.yaml model=yolov8n.pt imgsz=512 batch=2 conf=0.4 amp=True`
+
+<p>Más <strong>epochs</strong> en un modelo con menos carga <strong>(Yolov8n)</strong> computacional fue mas beneficioso</p>
 
 ###
